@@ -1,3 +1,3 @@
-# -NNDL---Neural-Networks-Deep-Learning
+# NNDL Neural-Networks & Deep-Learning
 
 NNDL Nural Networks & Deep Learning 
